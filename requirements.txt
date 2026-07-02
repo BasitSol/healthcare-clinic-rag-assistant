@@ -1,0 +1,21 @@
+# Core orchestration and agent framework
+langchain>=1.0.0
+langgraph>=1.0.0
+langchain-core>=1.0.0
+langchain-community>=0.4.0
+langchain-text-splitters>=1.0.0
+
+# Model providers
+langchain-groq>=1.0.0
+langchain-google-genai>=3.0.0
+
+# RAG, PDFs, embeddings, vector store
+langchain-huggingface>=1.0.0
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+pypdf>=5.0.0
+
+# App / utilities
+python-dotenv>=1.0.1
+streamlit>=1.36.0
+requests>=2.32.0
